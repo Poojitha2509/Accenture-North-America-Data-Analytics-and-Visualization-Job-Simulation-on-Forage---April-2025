@@ -29,4 +29,7 @@ I completed the Accenture North America Data Analytics and Visualization virtual
 - Microsoft Excel for data cleaning, modeling, and visualization
 - PowerPoint for presenting findings
 
+  ## Certificate
+  <a href="https://github.com/Poojitha2509/Accenture-North-America-Data-Analytics-and-Visualization-Job-Simulation-on-Forage---April-2025/blob/main/Accenture_completion_certificate.pdf"> Completion Certificate </a>
+
 
