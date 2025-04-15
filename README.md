@@ -23,3 +23,8 @@ I completed the Accenture North America Data Analytics and Visualization virtual
 - Task 3: Data Visualization & Storytelling: Designed a structured PowerPoint presentation to visualize top 5 content categories with the largest popularity and explored additional insights
 - Task 4: Applied data analytics and visualization skills to advise the social media client on content creation strategy
 
+  ## Tools and Technologies
+- Microsoft Excel for data cleaning, modeling, and visualization
+- PowerPoint for presenting findings
+
+
