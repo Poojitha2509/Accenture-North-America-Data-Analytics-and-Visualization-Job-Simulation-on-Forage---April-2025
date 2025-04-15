@@ -17,3 +17,9 @@ I completed the Accenture North America Data Analytics and Visualization virtual
 - Storytelling: Presenting findings in a clear and compelling manner
 - Teamwork: Collaborating with cross-functional teams to ensure expertise in problem-solving
 
+  ## Project Tasks
+- Task 1: Project Understanding: Reviewed client brief and understood business problem and project goals for Social Buzz, a fast-growing social media platform
+- Task 2: Data Cleaning & Modeling: Cleaned and merged seven datasets using Power BI to create a final dataset for analysis
+- Task 3: Data Visualization & Storytelling: Designed a structured PowerPoint presentation to visualize top 5 content categories with the largest popularity and explored additional insights
+- Task 4: Applied data analytics and visualization skills to advise the social media client on content creation strategy
+
