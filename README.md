@@ -22,7 +22,7 @@ I completed the Accenture North America Data Analytics and Visualization virtual
 - Task 2: Data Cleaning & Modeling: Cleaned and merged seven datasets using Microsoft Excel to create a final dataset for analysis:
   <a href="https://github.com/Poojitha2509/Accenture-North-America-Data-Analytics-and-Visualization-Job-Simulation-on-Forage---April-2025/blob/main/answers%20top%205.xlsx"> Top 5 Categories </a>
 - Task 3: Data Visualization & Storytelling: Designed a structured PowerPoint presentation to visualize top 5 content categories with the largest popularity and explored additional insights:
-  <a href="https://github.com/Poojitha2509/Accenture-North-America-Data-Analytics-and-Visualization-Job-Simulation-on-Forage---April-2025/blob/main/Data%20Analytics%20template%20-%20Task%203_final.pdf" Power Point Presentation </a>
+  <a href="https://github.com/Poojitha2509/Accenture-North-America-Data-Analytics-and-Visualization-Job-Simulation-on-Forage---April-2025/blob/main/Data%20Analytics%20template%20-%20Task%203_final.pdf"> Power Point Presentation </a>
 - Task 4: Applied data analytics and visualization skills to advise the social media client on content creation strategy.
 
   ## Tools and Technologies
