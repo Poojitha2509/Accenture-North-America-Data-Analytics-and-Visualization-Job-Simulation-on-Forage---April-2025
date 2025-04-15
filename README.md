@@ -6,3 +6,5 @@ I completed the Accenture North America Data Analytics and Visualization virtual
 
 <a href="https://github.com/Poojitha2509/Accenture-North-America-Data-Analytics-and-Visualization-Job-Simulation-on-Forage---April-2025/blob/main/ReactionTypes.csv"> Reaction Types </a>
 
+<a href="https://github.com/Poojitha2509/Accenture-North-America-Data-Analytics-and-Visualization-Job-Simulation-on-Forage---April-2025/blob/main/Reactions.csv"> Reactions </a>
+
